@@ -24,5 +24,5 @@ how to Github: https://www.youtube.com/watch?v=Bg9IAquDsDg
 Encoding and naming standards: https://docs.google.com/spreadsheets/d/1BUnjkGS3l8DrI6DvUVT-9P4pD-RbvVg4X1VjeUVEhWU/edit?usp=sharing
 
 # Some more:
-    Feel free to mail and ask if you have any questions
-    There is a test file that you can try and fork, change and merge it back to this repository
+   Feel free to mail and ask if you have any questions
+   There is a test file that you can try and fork, change and merge it back to this repository
