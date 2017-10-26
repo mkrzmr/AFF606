@@ -28,3 +28,5 @@ Encoding and naming standards: https://docs.google.com/spreadsheets/d/1BUnjkGS3l
 Feel free to mail and ask if you have any questions
 
 There is a test file that you can try and fork, change and merge it back to this repository
+
+Please submit one file per letter and indicate the pictures used
