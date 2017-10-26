@@ -14,7 +14,7 @@ This is to help us coordinate our transcriptions for AFF606
 4. Send me a request to include your file into the original repository (pull request)
     Feel free to submit work in progress, you can add comments and questions
     
-5. From there on, you can send any changes to the original repository through another pull request. I can then comment on the       changes and approve what is good so we get closer to uniform xml files.
+5. From there on, you can send any changes to the original repository through another pull request. I can then comment on the       changes and approve what is valid so we get closer to uniform xml files.
 
 
 # Useful links:
